@@ -14,15 +14,6 @@ I'm a senior software engineer who builds and ships cross-platform products—fr
 
 Over the last **3+ years**, I've worked across the full product lifecycle: architecture, implementation, security, performance, release automation, observability, and production delivery. I care about turning complicated systems into dependable experiences that feel simple to the people using them.
 
-```ts
-const hassan = {
-  focus: ["cross-platform products", "AI-assisted workflows", "developer tools"],
-  core: ["React", "TypeScript", "Electron", "Next.js", "Ruby on Rails"],
-  principles: ["ship thoughtfully", "measure impact", "make complexity disappear"],
-  location: "Islamabad, Pakistan",
-};
-```
-
 ## What I bring to the table
 
 | Product engineering | Platform & delivery | Architecture & reliability |
